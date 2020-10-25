@@ -2,25 +2,29 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+   font-family: sans-serif
 }
 h1{
-
+  opacity: 1;
   display: flex;
   justify-content: center;
   text-align: center;
   font-weight: bold;
-
+  margin-top: 350px;
   font-size:60px ;
-  color: #ffff
+  color: #B19CD9
+
 
 
 
 }
 body{
-  opacity: 0.5;
+
   background-image: url("pittsburgh.jpg");
 
+
 }
+
 
 ul {    /*MENU Styles ul --> li a:hover */
   position: fixed;
@@ -31,7 +35,7 @@ ul {    /*MENU Styles ul --> li a:hover */
   padding: 0;
   width: 200px;
   background-color: #ffff;
-  opacity: 0.6;
+  opacity: 0.4;
 
 
 }
@@ -44,6 +48,8 @@ li a {
   text-decoration: none;
   border: 1.5px solid black;
   font-size:20px ;
+
+
 
 
 }
@@ -62,7 +68,7 @@ div.university {
   text-align: center;
   background-color: #ffffff;
   border: 2px solid black;
-  opacity: 0.5;
+  opacity: 0.75;
 
 
 }
@@ -72,26 +78,47 @@ div.university p {
   font-weight: bold;
   color: #000000;
 
+
+}
+
+img { /*Style for Alexa image*/
+  border-radius: 10%;
+  padding: 5px;
+  width: 120px;
+  position: auto;
+  background-color: rgba(255, 255, 255, 1);
+  margin-top: -15px;
+
+
 }
 
 div.aboutme {
-  margin: 5%;
-  width: 700px;
-  text-align: left;
-  background-color: #ffffff;
-  border: 2px solid black;
-  opacity: 0.99;
+  margin: auto;
+
+  width: 500px;
+
+  text-align: center;
+  
+  border-radius: 5%;
+  padding-top: 30px;
+
+  opacity: 1;
+  background-color: rgba(255, 255, 255, 0.63);
+  display: flex;
+
+  margin-top: 40px;
+
+
+
+
 
 
 }
 
 div.aboutme p {
   margin: 1%;
-  font-weight: bold;
+
+
   color: #000000;
 
-}
-img.aboutme{
-  align: right;
-  opacity: 1;
 }
