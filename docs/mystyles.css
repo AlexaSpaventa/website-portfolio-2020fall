@@ -4,6 +4,7 @@
   box-sizing: border-box;
    font-family: sans-serif
 }
+
 h1{
   text-shadow:
 		-1px -1px 0 #000,
@@ -11,39 +12,51 @@ h1{
 		-1px 1px 0 #000,
 		1px 1px 0 #000;
   opacity: 1;
-  display: flex;
+  margin-top: 300px;
   justify-content: center;
   text-align: center;
   font-weight: bold;
-  margin-top: 350px;
+
   font-size:60px ;
-  color: #B19CD9
+   color: #B19CD9;
 
 
 
 
-
-}
-body{
-
-  background-image: url("pittsburgh.jpg");
 
 
 }
+ body {
+    display: flex;
+    flex-direction: column;
+    padding-top: 2px;
+}
+
+section#home{
+
+  background-image: url("pittsburgh.png");
+  height: 100vh;
+
+}
 
 
-ul {
+
+
+nav.top-nav ul {
   position: fixed;
+  /* position: absolute; works if you want it at the top */
   top: 0;
   left: 0;
   width: 100%;
   list-style-type: none;
-  margin: 0;
+  margin: 0 ;
   padding: 0;
-  overflow: hidden;
-  background-color: #fff;
-  opacity: 0.3;
+
+  background-color: #B19CD9;
+  opacity: 1;
+  z-index: 2;
 }
+
 
 li {
   float: left;
@@ -56,24 +69,25 @@ li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 16px;
+  padding: 20px;
   position: relative;
-  padding-right: 125px; /*HI!!! Comeback and fix scaling HERE*/
-  padding-left: 125px;
+  padding-right: 7.2vw; /*HI!!! Comeback and fix scaling HERE*/
+  padding-left: 7.2vw;
 
   text-decoration: none;
-  color: #000;
+  color: 	#4B0082;
 
 
 }
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
-  background-color: #111;
+  background-color: #FFE1FF;
 }
 
 /*Box with major info on homepage*/
 div.university {
+  z-index: 1;
   margin: auto;
   width: 700px;
   text-align: center;
@@ -132,4 +146,43 @@ div.aboutme p {
 
   color: #000000;
 
+}
+
+section#resume{
+  background-image: url("purple.png");
+  height: 100vh;
+}
+h2{
+  text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+  opacity: 1;
+  margin-top: 90px;
+  margin-left: 15px;
+
+  font-weight: bold;
+
+  font-size:60px ;
+   color: #FFE1FF;
+
+
+
+}
+
+section#projects{
+  background-image: url("purple.png");
+  height: 100vh;
+}
+
+
+section#about{
+  background-image: url("purple.png");
+  height: 100vh;
+}
+
+section#activities{
+  background-image: url("purple.png");
+  height: 100vh;
 }
