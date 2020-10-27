@@ -6,3 +6,4 @@
 |Text|Pull from my resume/write|
 |Pittsburgh Skyline |https://wallpaperaccess.com/pittsburgh-skyline|
 |Photo of me|My phone|
+|LinkedIn Logo|https://icons-for-free.com/linked+linkedin+logo+social+icon-1320191784782940875/|
