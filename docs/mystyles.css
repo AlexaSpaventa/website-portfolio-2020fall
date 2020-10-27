@@ -167,9 +167,56 @@ h2{
   font-size:60px ;
    color: #FFE1FF;
 
+}
+h3{
+  /* text-shadow:
+		-1px -1px 0 #FFE1FF,
+		1px -1px 0 #FFE1FF,
+		-1px 1px 0 #FFE1FF,
+		1px 1px 0 #FFE1FF; */
+  opacity: 1;
 
+
+  font-weight: bold;
+  text-align: center;
+  font-size:40px ;
+   color: #4B0082;
 
 }
+h4{
+  /* text-shadow:
+		-1px -1px 0 #301934,
+		1px -1px 0 #301934,
+		-1px 1px 0 #301934,
+		1px 1px 0 #301934; */
+  opacity: 1;
+
+
+  font-weight: bold;
+  text-align: center;
+  font-size:40px ;
+   color: #B19CD9;
+
+}
+div.grid {
+  width: 50%; height: 50%; float: left; margin-left
+}
+#education{
+  background: #B19CD9;
+}
+div#education p{
+  /* formating for paragraph in education */
+}
+#experiance {
+  background: #FFE1FF;
+}
+#skills {
+  background: #B19CD9;
+}
+#contact {
+  background: #FFE1FF;
+}
+
 
 section#projects{
   background-image: url("purple.png");
