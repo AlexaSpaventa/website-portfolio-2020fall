@@ -242,18 +242,20 @@ div.grid {
 
   float: left;
 
-  width: 15%;
-  opacity: 0.1;
+  width: 20%;
+  opacity: 0.4;
+  padding-left: 125px
+
 }
 
 /* Clear floats after image containers */
 .row::after {
-
-  content: ""; 
+  content: "";
   clear: both;
   display: table;
-
-
+}
+.media:hover {
+  background-color: #B19CD9;
 }
 
 
