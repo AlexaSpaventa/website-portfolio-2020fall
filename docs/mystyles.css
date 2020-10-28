@@ -150,7 +150,10 @@ div.aboutme p {
 
 section#resume{
   background-image: url("purple.png");
-  height: 100vh;
+
+
+
+
 }
 h2{
   text-shadow:
@@ -202,20 +205,40 @@ div.grid {
   width: 50%; height: 50%; float: left; margin-left
 }
 #education{
-  background: #B19CD9;
+  /* background: #B19CD9; */
+  background-image: url("resume.jpg");
+  color: #FFE1FF;
+  font-size:20px;
+  padding-right: 27vw;
+   padding-left: 27vw;
+   padding-top: 2vh;
+
+
 }
-div#education p{
-  /* formating for paragraph in education */
-}
+
+
 #experiance {
   background: #FFE1FF;
+  color: #B19CD9;
+  font-size:20px;
+  padding-right: 27vw;
+   padding-left: 27vw;
+   padding-top: 2vh;
+    padding-bottom: 5vh;
 }
 #skills {
   background: #B19CD9;
+  color: #FFE1FF;
+  font-size:20px;
+
+   padding-top: 2vh;
+   padding-bottom: 5vh;
 }
 #contact {
   background: #FFE1FF;
+
 }
+
 
 
 section#projects{
