@@ -1,9 +1,19 @@
 |Needs |Solutions |
 |-----|-----|
-|Project Images|I have these/Can take these|
-|Project Videos|On my phone|
-|Icons for Social Media|Online|
-|Text|Pull from my resume/write|
+|Project Images|Alexa Spaventa (Me)|
+|Text|Alexa Spaventa (Me)|
 |Pittsburgh Skyline |https://wallpaperaccess.com/pittsburgh-skyline|
-|Photo of me|My phone|
-|LinkedIn Logo|https://icons-for-free.com/linked+linkedin+logo+social+icon-1320191784782940875/|
+|Photo of me|Alexa Spaventa (Me)|
+|LinkedIn Logo|https://icons-for-free.com/linked+linkedin+logo+social+icon-1320191784782940875/|\
+|Instagram Logo|https://www.instagram.com/|
+|Facebook Logo|https://www.facebook.com/|
+|Email Symbol|https://www.cleanpng.com/png-email-logo-bounce-address-computer-icons-message-o-5572314/|
+|Github Logo|http://github.com/|
+|WiCS Logo|http://www.wics.cs.pitt.edu/|
+|Pitt Serves|https://remakelearning.org/organization/pittserves/|
+|CSC Logo|https://pittcsc.org/|
+|Phi Eta Sigma|https://www.phietasigma.org/|
+|Pitt Sci|http://web17a.sci.pitt.edu/academics/|
+|Data Jam|http://www.pittscienceoutreach.com/content/pittsburgh-data-jam|
+|Pitt Serves|https://www.studentaffairs.pitt.edu/pittserves/altbreak/|
+
