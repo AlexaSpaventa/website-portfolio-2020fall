@@ -50,7 +50,8 @@ nav.top-nav ul {
   width: 100%;
   list-style-type: none;
   margin: 0 ;
-  padding: 0;
+  /* padding: 0; */
+  padding-left: 10vw; 
 
   background-color: #B19CD9;
   opacity: 1;
@@ -265,16 +266,96 @@ div.grid {
 
 section#projects{
   background-image: url("purple.png");
-  height: 100vh;
+  /* height: 100vh; */
+
+
+}
+div.project_text{
+  color: #FFE1FF;
+  font-size:20px;
+  padding-top: 5vh;
+  padding-left: 18vw;
+
+}
+h5{
+  opacity: 1;
+
+
+  font-weight: bold;
+  text-align: center;
+  font-size:40px ;
+   color: #4B0082;
+    padding-right: 20vw;
+    padding-bottom: 2vh;
+
+}
+
+h6{
+  opacity: 1;
+
+
+  font-weight: bold;
+  text-align: center;
+  font-size:40px ;
+   color: #4B0082;
+    padding-right: 25vw;
+    padding-bottom: 5vh;
+
+}
+
+.pages {
+
+  float: left;
+  padding-left: 9vw;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+
 }
 
 
-section#about{
+.app:hover {
+  background-color: #B19CD9;
+}
+div.project_text2{
+  color: #FFE1FF;
+  font-size:20px;
+  padding-top: 5vh;
+   padding-left: 23vw;
+}
+
+.game {
+
+  float: left;
+  padding-left: 10vw;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+
+}
+
+
+/* section#about{
   background-image: url("purple.png");
-  height: 100vh;
-}
+  height: 100vh; */
+/* } */
 
 section#activities{
   background-image: url("purple.png");
-  height: 100vh;
+  /* height: 100vh; */
+}
+.club {
+
+  float: center;
+  padding-left: 15vw;
+  padding-top: 5vh;
+  padding-bottom: 3vh;
+
+}
+
+.club2{
+
+  float: center;
+  padding-left: 18vw;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+
 }
