@@ -5,15 +5,15 @@
 |Pittsburgh Skyline |https://wallpaperaccess.com/pittsburgh-skyline|
 |Photo of me|Alexa Spaventa (Me)|
 |LinkedIn Logo|https://icons-for-free.com/linked+linkedin+logo+social+icon-1320191784782940875/|\
-|Instagram Logo||
-|Facebook Logo||
-|Email Symbol||
-|Github Logo||
-|WiCS Logo||
-|Pitt Serves||
-|CSC Logo||
-|Phi Eta Sigma||
-|Pitt Sci||
-|Data Jam||
-|Pitt Serves||
+|Instagram Logo|https://www.instagram.com/|
+|Facebook Logo|https://www.facebook.com/|
+|Email Symbol|https://www.cleanpng.com/png-email-logo-bounce-address-computer-icons-message-o-5572314/|
+|Github Logo|http://github.com/|
+|WiCS Logo|http://www.wics.cs.pitt.edu/|
+|Pitt Serves|https://remakelearning.org/organization/pittserves/|
+|CSC Logo|https://pittcsc.org/|
+|Phi Eta Sigma|https://www.phietasigma.org/|
+|Pitt Sci|http://web17a.sci.pitt.edu/academics/|
+|Data Jam|http://www.pittscienceoutreach.com/content/pittsburgh-data-jam|
+|Pitt Serves|https://www.studentaffairs.pitt.edu/pittserves/altbreak/|
 
