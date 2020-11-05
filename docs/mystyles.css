@@ -51,7 +51,7 @@ nav.top-nav ul {
   list-style-type: none;
   margin: 0 ;
   /* padding: 0; */
-  padding-left: 10vw; 
+  padding-left: 10vw;
 
   background-color: #B19CD9;
   opacity: 1;
@@ -218,7 +218,7 @@ div.grid {
 }
 
 
-#experiance {
+#experience {
   background: #FFE1FF;
   color: #B19CD9;
   font-size:20px;
