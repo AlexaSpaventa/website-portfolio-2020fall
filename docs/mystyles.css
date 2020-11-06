@@ -34,7 +34,7 @@ h1{
 
 section#home{
 
-  background-image: url("pittsburgh.png");
+  background-image: url("./ASSETS/pittsburgh.png");
   height: 100vh;
 
 }
@@ -150,7 +150,7 @@ div.aboutme p {
 }
 
 section#resume{
-  background-image: url("purple.png");
+  background-image: url("./ASSETS/purple.png");
 
 
 
@@ -207,7 +207,7 @@ div.grid {
 }
 #education{
   /* background: #B19CD9; */
-  background-image: url("resume.jpg");
+  background-image: url("./ASSETS/resume.jpg");
   color: #FFE1FF;
   font-size:20px;
   padding-right: 27vw;
@@ -265,7 +265,7 @@ div.grid {
 
 
 section#projects{
-  background-image: url("purple.png");
+  background-image: url("./ASSETS/purple.png");
   /* height: 100vh; */
 
 
@@ -339,7 +339,7 @@ div.project_text2{
 /* } */
 
 section#activities{
-  background-image: url("purple.png");
+  background-image: url("./ASSETS/purple.png");
   /* height: 100vh; */
 }
 .club {
